@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.
 - 📫 How to reach me: (E-mail : veeranjijlkr49@gmail.com) | [LinkedIn] : https://www.linkedin.com/in/veeranji-jlkr-4b6703265/ 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I once wrote a piece of code that accidentally solved a problem I wasn't even working on!
 
 ## 🛠️ My Skills
 
@@ -16,9 +16,14 @@
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/veeranji-jlkr-4b6703265/)
-- [Email]:(veeranjijlkr49@gmail.com)
 - [GitHub](https://github.com/Veeranji49)
 
+
+## 🏔️ Hobbies and Adventures
+
+- **Travel:** Exploring new Places and cultures.
+- **Adventure:**  outdoor sports.
+- **Tech:** Building gadgets and experimenting with new technologies.
 
 ## 🗂️ Work Experience
 
