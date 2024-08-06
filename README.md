@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development, especially in Java, Reactjs and springboot.
 - 🌱 I’m currently learning advanced Spring Boot features, Reactjs, Docker, Kubernetes and microservices architecture.
 - 💞️ I’m looking to collaborate on open-source projects and innovative software solutions.
-- 📫 How to reach me: (E-mail : veeranjijlkr49@gmail.com) | [LinkedIn] : https://www.linkedin.com/in/veeranji-jlkr-4b6703265/ 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once wrote a piece of code that accidentally solved a problem I wasn't even working on!
 
