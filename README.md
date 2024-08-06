@@ -17,7 +17,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/veeranji-jlkr-4b6703265/)
 - [GitHub](https://github.com/Veeranji49)
-- [E-mail](veeranjijlkr49@gmail.com)
 
 
 ## 🏔️ Hobbies and Adventures
