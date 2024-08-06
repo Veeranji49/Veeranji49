@@ -10,14 +10,15 @@
 
 - **Languages:** Java, JavaScript, HTML, CSS, JSP, Servlets, JDBC
 - **Frameworks:** Spring Boot, Spring, Hibernate
-- **Tools:** Git, Maven, Docker, Postman
+- **Tools:** Git, Maven, Docker, Postman ,
+- **IDEs:** IntelliJ, Eclipse, Visual Studio Code, VMWare, STS, MySQL, PostgreSQL
 - **Databases:** PostgreSQL, MySQL
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/veeranji-jlkr-4b6703265/)
 - [GitHub](https://github.com/Veeranji49)
-
+- You can reach me at: [veeranjijlkr49@gmail.com](mailto:veeranjijlkr49@gmail.com)
 
 ## 🏔️ Hobbies and Adventures
 
