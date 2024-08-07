@@ -27,8 +27,8 @@
 
 ## 🗂️ Work Experience
 
-- **Current Position:** Java Developer at Master Works Software Private Limited
-- **Previous Position:** Software Intern at Masterworks
+- **Current Position:** Java Developer(Full Time) at Master Works Software Private Limited
+- **Previous Position:** Java Developer Intern at Master Works Software Private Limited
 
 
 <!---
